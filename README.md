@@ -16,7 +16,7 @@ including an entry such as:
 
 Add this entry to your `config.rb` like this:
 
-     AppConfig[:user_defined_in_basic] = {'accessions' => ['boolean_1','text_1','enum_3','date_1','enum_2','enum_1','integer_1','integer_2','real_1','boolean_2','text_2'],'hide_user_defined_section' => true }
+     AppConfig[:archivesspace-duke-user_defined_in_basic] = {'accessions' => ['boolean_1','text_1','enum_3','date_1','enum_2','enum_1','integer_1','integer_2','real_1','boolean_2','text_2'],'hide_user_defined_section' => true }
 
 
 
